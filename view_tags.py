@@ -20,4 +20,4 @@ def get_pull_and_run_command(df, idx: int):
     print(run_cmd)
 
 
-get_pull_and_run_command(df, 174)
+get_pull_and_run_command(df, 71)
